@@ -4,6 +4,7 @@ This project is a starter template for building web applications with pure HTML,
 
 
 ![2015-09-20 17 02 28](https://github.com/b-owl/eCommerce_tailwind_template/blob/master/assets/images/preview/2.png)
+![2015-09-20 17 02 28](https://github.com/b-owl/eCommerce_tailwind_template/blob/master/assets/images/preview/1.png)
 ## Features
 
 - **Pure HTML, CSS, and JavaScript:** Utilizes native web technologies for building dynamic and interactive user interfaces.
