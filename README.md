@@ -3,8 +3,8 @@
 This project is a starter template for building web applications with pure HTML, CSS (using Tailwind CSS for styling), and JavaScript (utilizing the Swiper library for carousel/slider functionality). It provides a solid foundation for quickly prototyping and developing modern web applications.
 
 
-[!1](https://github.com/kenny-lamra/eCommerce_tailwind_website/blob/master/assets/images/preview/1.png)
-[!2](https://github.com/kenny-lamra/eCommerce_tailwind_website/blob/master/assets/images/preview/1.png)
+![2015-09-20 17 02 28 (https://github.com/kenny-lamra/eCommerce_tailwind_website/blob/master/assets/images/preview/1.png)
+![2015-09-20 17 02 28 (https://github.com/kenny-lamra/eCommerce_tailwind_website/blob/master/assets/images/preview/1.png)
 ## Features
 
 - **Pure HTML, CSS, and JavaScript:** Utilizes native web technologies for building dynamic and interactive user interfaces.
