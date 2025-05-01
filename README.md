@@ -3,7 +3,7 @@
 This project is a starter template for building web applications with pure HTML, CSS (using Tailwind CSS for styling), and JavaScript (utilizing the Swiper library for carousel/slider functionality). It provides a solid foundation for quickly prototyping and developing modern web applications.
 
 
-![2015-09-20 17 02 28](https://github.com/b-owl/eCommerce_tailwind_template/blob/master/assets/images/preview/1.png)
+![2015-09-20 17 02 28](https://github.com/kenny-lamra/E-commerce_tailwind_website/blob/master/assets/images/preview/1.png)
 ## Features
 
 - **Pure HTML, CSS, and JavaScript:** Utilizes native web technologies for building dynamic and interactive user interfaces.
@@ -14,14 +14,14 @@ This project is a starter template for building web applications with pure HTML,
 
 ## Live Demo
 
-Check out the live demo [here](https://b-owl.github.io/eCommerce_tailwind_template/).
+Check out the live demo [here](https://kenny-lamra.github.io/E-commerce_tailwind_website/).
 
 ## Usage
 
 To use this template, simply download the source code or clone the repository:
 
 ```bash
-git clone https://github.com/b-owl/eCommerce_tailwind_template.git
+git clone https://github.com/kenny-lamra/E-commerce_tailwind_website.git
 ```
 Then, open the index.html file in your preferred text editor to start modifying the template.
 
